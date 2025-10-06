@@ -24,5 +24,3 @@ while(z==1):
         print("factorial: ",fact)
     elif n==4:
         break;
-else :
-     print("while else")
